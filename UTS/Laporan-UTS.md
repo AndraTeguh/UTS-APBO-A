@@ -27,7 +27,7 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 
 
 ### 2. Use Case Diagram
-![APBO UTS-Use Case drawio](https://github.com/user-attachments/assets/03afe9e3-6758-49bd-ab73-6d8bdb1d7b83)
+![APBO UTS-Use Case drawio (1)](https://github.com/user-attachments/assets/9a031879-f424-40c3-876b-6c12cb09171d)
 
 ### 3. Entitas Utama
 
