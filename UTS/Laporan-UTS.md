@@ -1,6 +1,6 @@
 # UTS APBO A KELOMPOK 3 
 
-Repositori ini berisi hasil Ujian Tengah Semester (UTS) mata kuliah **Analisis Pemrograman Berbasis Objek (APBO)** - Kelas A 
+Repositori ini berisi hasil Ujian Tengah Semester (UTS) mata kuliah *Analisis Pemrograman Berbasis Objek (APBO)* - Kelas A 
 
 ## Dosen Pengampu
 Adi Wahyu Pribadi, S.Si., M.Kom
@@ -15,7 +15,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | 5  | Andre Alfre           | 4523210018  |
 
 
-## Ketering Mama Lin
+## Ketering Mama Iin
 
 ### 1. Aktor/Role
 
@@ -25,11 +25,41 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ### 3. Entitas Utama
 
+#### A. Pembeli
+
+| Nama Atribut  | Tipe Data    | Keterangan                 |
+|---------------|--------------|----------------------------|
+| id_pembeli    | String (PK)  | ID unik milik pembeli      |
+| nama_pembeli  | String       | Nama lengkap pembeli       |
+| alamat        | String       | Alamat lengkap pembeli     |
+| notelp        | String       | Nomor telepon pembeli      |
+
+#### B. Makanan
+
+| Nama Atribut   | Tipe Data    | Keterangan                  |
+|----------------|--------------|-----------------------------|
+| id_makanan     | String (PK)  | ID unik makanan             |
+| nama_makanan   | String       | Nama makanan                |
+| stok           | Int          | Stok tersedia               |
+| harga          | Double       | Harga makanan               |
+| foto           | String       | File foto makanan           |
+| deskripsi      | String       | Deskripsi makanan           |
+
+#### C. Pesanan
+
+| Nama Atribut  | Tipe Data    | Keterangan                          |
+|---------------|--------------|-------------------------------------|
+| id_pesanan    | String (PK)  | ID unik pesanan                     |
+| id_pembeli    | String (FK)  | Relasi ke tabel Pembeli            |
+| id_makanan    | String (FK)  | Relasi ke tabel Makanan            |
+| jumlah        | Int          | Jumlah makanan yang dipesan        |
+| subtotal      | Double       | Harga dikali jumlah                |
+| waktu_pesan   | Datetime     | Waktu pemesanan                    |
+
 
 ### 4. Relasi
+![APBO UTS-Entitiy Diagram drawio](https://github.com/user-attachments/assets/8ac50d36-6de0-4144-8bbc-602955429b13)
 
 
 ### 5. Class Diagram
-
-
-
+=======
