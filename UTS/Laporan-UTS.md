@@ -54,6 +54,16 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | waktu_pesan   | Datetime     | Waktu pemesanan                    |
 
 
+
+#### E. Notifikasi
+
+| Nama Atribut | Tipe Data    | Keterangan                                   |
+|--------------|--------------|----------------------------------------------|
+| id_notif     | String (PK)  | ID unik notifikasi                           |
+| id_pesanan   | String (FK)  | Relasi ke tabel Pesanan                      |
+| konfirmasi   | Boolean      | Status konfirmasi pembayaran                 |
+| status       | String       | Status pesanan (pending, selesai)        |
+| notif        | String       | Pesan notifikasi                             |
 ### 4. Relasi
 ![APBO UTS-Entitiy Diagram drawio](https://github.com/user-attachments/assets/8ac50d36-6de0-4144-8bbc-602955429b13)
 
