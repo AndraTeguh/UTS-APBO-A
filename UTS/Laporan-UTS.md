@@ -1,6 +1,6 @@
 # UTS APBO A KELOMPOK 3 
 
-Repositori ini berisi hasil Ujian Tengah Semester (UTS) mata kuliah *Analisis Pemrograman Berbasis Objek (APBO)* - Kelas A 
+Repositori ini berisi hasil Ujian Tengah Semester (UTS) mata kuliah Analisis Pemrograman Berbasis Objek (APBO) - Kelas A 
 
 ## Dosen Pengampu
 Adi Wahyu Pribadi, S.Si., M.Kom
@@ -26,7 +26,6 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ### 3. Entitas Utama
 
 #### A. Pembeli
-
 | Nama Atribut  | Tipe Data    | Keterangan                 |
 |---------------|--------------|----------------------------|
 | id_pembeli    | String (PK)  | ID unik milik pembeli      |
@@ -35,7 +34,6 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | notelp        | String       | Nomor telepon pembeli      |
 
 #### B. Makanan
-
 | Nama Atribut   | Tipe Data    | Keterangan                  |
 |----------------|--------------|-----------------------------|
 | id_makanan     | String (PK)  | ID unik makanan             |
@@ -46,7 +44,6 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | deskripsi      | String       | Deskripsi makanan           |
 
 #### C. Pesanan
-
 | Nama Atribut  | Tipe Data    | Keterangan                          |
 |---------------|--------------|-------------------------------------|
 | id_pesanan    | String (PK)  | ID unik pesanan                     |
