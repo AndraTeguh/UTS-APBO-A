@@ -106,9 +106,11 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 
 
 #### E. Pembayaran - Pembeli
+![APBO UTS-Wireframe Pembayaran](https://github.com/user-attachments/assets/47355e7c-b9a7-4ac4-89c6-7d314bd14ac9)
 
 
 #### F. Konfirmasi - Penjual
 
 
 #### G. Notifikasi - Pembeli
+![APBO UTS-Wireframe Notifikasi](https://github.com/user-attachments/assets/da87a565-13a5-44ab-9338-ecab14dec2fc)
