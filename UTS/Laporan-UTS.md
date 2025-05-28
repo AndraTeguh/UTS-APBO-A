@@ -72,8 +72,6 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 | metode            | String       | Metode pembayaran (ENUM: COD, Transfer)        |
 | waktu_pembayaran  | Datetime     | Waktu pembayaran dilakukan                         |
 
-
-
 #### E. Notifikasi
 
 | Nama Atribut | Tipe Data    | Keterangan                                   |
