@@ -16,9 +16,9 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 
 ## Ketering Mama Iin
-Bisnis yang kami pilih untuk dianalisis dalam pembuatan suatu sistem informasi yang dapat membantu pelaku bisnis tersebut adalah usaha Catering tetangga dari salah satu anggota kami. Usaha Katering ini bersifat rumahan dengan skala kecil yang menjual berbagai menu lauk dan sayur kepada pembeli di lingkungan rumah penjual. Seluruh transaksi jual beli dilakukan melalui aplikasi WhatsApp saja karena sang penjual termasuk ke dalam orang yang kurang mengerti teknologi dalam konteks IT. Metode pembayaran dari usaha Katering ini hanya melayani cash saja tanpa ada opsi lainnya.
+Bisnis yang kami pilih untuk dianalisis dalam pembuatan suatu sistem informasi yang dapat membantu pelaku bisnis tersebut adalah usaha katering tetangga dari salah satu anggota kami. Usaha Katering ini bersifat rumahan dengan skala kecil yang menjual berbagai menu lauk dan sayur kepada pembeli di lingkungan rumah penjual. Seluruh transaksi jual beli dilakukan melalui aplikasi WhatsApp saja karena sang penjual termasuk ke dalam orang yang kurang mengerti teknologi dalam konteks IT. Metode pembayaran dari usaha Katering ini hanya melayani cash saja tanpa ada opsi lainnya.
 
-Proses dari usaha Katering ini cukup sederhana yaitu dimulai proses pemasarannya menggunakan status WhatsApp agar pembeli tahu menu apa saja yang akan dijual pada keesokan harinya. Lanjut ke proses produksi dengan membeli bahan di pagi hari,  lalu memulai masak pada siang hari. Dan makanan yang sudah matang akan diantarkan pada sore harinya.
+Proses dari usaha katering ini cukup sederhana yaitu dimulai proses pemasarannya menggunakan status WhatsApp agar pembeli tau menu apa saja yang akan dijual pada keesokan harinya. Lanjut ke proses produksi dengan membeli bahan di pagi hari,  lalu memulai masak pada siang hari. Dan makanan yang sudah matang akan diantarkan pada sore harinya.
 
 ![image](https://github.com/user-attachments/assets/b0eb08a2-a1eb-40d5-abee-fec383bbaea7)
 
