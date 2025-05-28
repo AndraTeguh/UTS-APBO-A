@@ -72,8 +72,6 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 | metode            | String       | Metode pembayaran (ENUM: COD, Transfer)        |
 | waktu_pembayaran  | Datetime     | Waktu pembayaran dilakukan                         |
 
-
-
 #### E. Notifikasi
 
 | Nama Atribut | Tipe Data    | Keterangan                                   |
@@ -100,9 +98,11 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 
 
 #### C. Makanan  - Penjual, Pembeli
+![APBO UTS-Wireframe Makanan drawio](https://github.com/user-attachments/assets/99ec88a5-37a6-44f5-8a30-bc61822b92db)
 
 
 #### D. Pesan Makanan - Pembeli
+![APBO UTS-Wireframe Pesan drawio](https://github.com/user-attachments/assets/1bbb4a5b-a9b9-4773-b102-b5b68ee19447)
 
 
 #### E. Pembayaran - Pembeli
