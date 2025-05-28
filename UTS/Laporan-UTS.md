@@ -90,3 +90,25 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 
 ### 5. Class Diagram
 ![APBO UTS-Class Diagram (8)](https://github.com/user-attachments/assets/4c0eb1db-3ca8-47d5-8064-c778efc079d0)
+
+
+### 6. Wireframe/Mockup
+#### A. Daftar Akun - Pembeli
+
+
+#### B. Mengelola Data Makanan
+
+
+#### C. Makanan  - Penjual, Pembeli
+
+
+#### D. Pesan Makanan - Pembeli
+
+
+#### E. Pembayaran - Pembeli
+
+
+#### F. Konfirmasi - Penjual
+
+
+#### G. Notifikasi - Pembeli
