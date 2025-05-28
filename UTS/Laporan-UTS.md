@@ -91,25 +91,28 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 
 
 ### 6. Wireframe/Mockup
-#### A. Daftar Akun - Pembeli
+#### A. Mengelola Data Makanan - Penjual
+![APBO UTS-Wireframe Tambah Menu drawio](https://github.com/user-attachments/assets/877a9730-5c90-4d73-afeb-d10520e51cf7)
 
 
-#### B. Mengelola Data Makanan - Penjual
-
-
-#### C. Makanan  - Penjual, Pembeli
+#### B. Daftar Makanan  - Penjual, Pembeli
 ![APBO UTS-Wireframe Makanan drawio](https://github.com/user-attachments/assets/99ec88a5-37a6-44f5-8a30-bc61822b92db)
 
 
-#### D. Pesan Makanan - Pembeli
+#### C. Pesan Makanan - Pembeli
 ![APBO UTS-Wireframe Pesan drawio](https://github.com/user-attachments/assets/1bbb4a5b-a9b9-4773-b102-b5b68ee19447)
 
 
+#### D. Data Diri - Pembeli
+![APBO UTS-Wireframe Data Diri drawio](https://github.com/user-attachments/assets/4dd1ec48-ca7d-426e-995c-fb084aaad7c2)
+
+ 
 #### E. Pembayaran - Pembeli
 ![APBO UTS-Wireframe Pembayaran](https://github.com/user-attachments/assets/47355e7c-b9a7-4ac4-89c6-7d314bd14ac9)
 
 
 #### F. Konfirmasi - Penjual
+![APBO UTS-Wireframe Konfirmasi drawio](https://github.com/user-attachments/assets/1348a782-d779-4f2d-a571-09f05d32ad7b)
 
 
 #### G. Notifikasi - Pembeli
