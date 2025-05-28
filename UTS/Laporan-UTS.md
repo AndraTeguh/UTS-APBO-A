@@ -111,7 +111,7 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 ![APBO UTS-Wireframe Pembayaran](https://github.com/user-attachments/assets/47355e7c-b9a7-4ac4-89c6-7d314bd14ac9)
 
 
-#### F. Konfirmasi - Penjual
+#### F. Konfirmasi, Melihat Daftar Pesanan - Penjual
 ![APBO UTS-Wireframe Konfirmasi drawio](https://github.com/user-attachments/assets/1348a782-d779-4f2d-a571-09f05d32ad7b)
 
 
