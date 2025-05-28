@@ -96,7 +96,7 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 #### A. Daftar Akun - Pembeli
 
 
-#### B. Mengelola Data Makanan
+#### B. Mengelola Data Makanan - Penjual
 
 
 #### C. Makanan  - Penjual, Pembeli
