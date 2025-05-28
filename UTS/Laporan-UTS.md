@@ -19,6 +19,12 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ### 1. Aktor/Role
 
+A. Penjual
+Berperan sebagai pengelola sistem yang bertanggung jawab dalam pengelolaan menu, memproses pesanan yang masuk, mengelola data pesanan, dan menerima pembayaran.
+
+B. Pembeli
+Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data pribadi, memilih metode pembayaran, dan menerima notifikasi pesanan.
+
 
 ### 2. Use Case Diagram
 ![APBO UTS-Use Case drawio](https://github.com/user-attachments/assets/03afe9e3-6758-49bd-ab73-6d8bdb1d7b83)
@@ -26,6 +32,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ### 3. Entitas Utama
 
 #### A. Pembeli
+
 | Nama Atribut  | Tipe Data    | Keterangan                 |
 |---------------|--------------|----------------------------|
 | id_pembeli    | String (PK)  | ID unik milik pembeli      |
@@ -34,6 +41,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | notelp        | String       | Nomor telepon pembeli      |
 
 #### B. Makanan
+
 | Nama Atribut   | Tipe Data    | Keterangan                  |
 |----------------|--------------|-----------------------------|
 | id_makanan     | String (PK)  | ID unik makanan             |
@@ -44,6 +52,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | deskripsi      | String       | Deskripsi makanan           |
 
 #### C. Pesanan
+
 | Nama Atribut  | Tipe Data    | Keterangan                          |
 |---------------|--------------|-------------------------------------|
 | id_pesanan    | String (PK)  | ID unik pesanan                     |
@@ -52,6 +61,16 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | jumlah        | Int          | Jumlah makanan yang dipesan        |
 | subtotal      | Double       | Harga dikali jumlah                |
 | waktu_pesan   | Datetime     | Waktu pemesanan                    |
+
+#### D. Pembayaran
+
+| Nama Atribut      | Tipe Data    | Keterangan                                         |
+|-------------------|--------------|----------------------------------------------------|
+| id_pembayaran     | String (PK)  | ID unik pembayaran                                 |
+| id_pesanan        | String (FK)  | Relasi ke tabel Pesanan                            |
+| subtotal          | Double       | Total harga yang dibayarkan                        |
+| metode            | String       | Metode pembayaran (ENUM: COD, Transfer)        |
+| waktu_pembayaran  | Datetime     | Waktu pembayaran dilakukan                         |
 
 
 
@@ -64,6 +83,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | konfirmasi   | Boolean      | Status konfirmasi pembayaran                 |
 | status       | String       | Status pesanan (pending, selesai)        |
 | notif        | String       | Pesan notifikasi                             |
+
 ### 4. Relasi
 ![APBO UTS-Entitiy Diagram drawio](https://github.com/user-attachments/assets/8ac50d36-6de0-4144-8bbc-602955429b13)
 
