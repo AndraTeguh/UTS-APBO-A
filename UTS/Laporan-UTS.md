@@ -1,6 +1,6 @@
 # UTS APBO A KELOMPOK 3 
 
-Repositori ini berisi hasil Ujian Tengah Semester (UTS) mata kuliah *Analisis Pemrograman Berbasis Objek (APBO)* - Kelas A 
+Repositori ini berisi hasil Ujian Tengah Semester (UTS) mata kuliah Analisis Pemrograman Berbasis Objek (APBO) - Kelas A 
 
 ## Dosen Pengampu
 Adi Wahyu Pribadi, S.Si., M.Kom
@@ -21,12 +21,11 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 
 ### 2. Use Case Diagram
-
+![APBO UTS-Use Case drawio](https://github.com/user-attachments/assets/03afe9e3-6758-49bd-ab73-6d8bdb1d7b83)
 
 ### 3. Entitas Utama
 
 #### A. Pembeli
-
 | Nama Atribut  | Tipe Data    | Keterangan                 |
 |---------------|--------------|----------------------------|
 | id_pembeli    | String (PK)  | ID unik milik pembeli      |
@@ -35,7 +34,6 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | notelp        | String       | Nomor telepon pembeli      |
 
 #### B. Makanan
-
 | Nama Atribut   | Tipe Data    | Keterangan                  |
 |----------------|--------------|-----------------------------|
 | id_makanan     | String (PK)  | ID unik makanan             |
@@ -46,7 +44,6 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | deskripsi      | String       | Deskripsi makanan           |
 
 #### C. Pesanan
-
 | Nama Atribut  | Tipe Data    | Keterangan                          |
 |---------------|--------------|-------------------------------------|
 | id_pesanan    | String (PK)  | ID unik pesanan                     |
@@ -57,10 +54,19 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 | waktu_pesan   | Datetime     | Waktu pemesanan                    |
 
 
+
+#### E. Notifikasi
+
+| Nama Atribut | Tipe Data    | Keterangan                                   |
+|--------------|--------------|----------------------------------------------|
+| id_notif     | String (PK)  | ID unik notifikasi                           |
+| id_pesanan   | String (FK)  | Relasi ke tabel Pesanan                      |
+| konfirmasi   | Boolean      | Status konfirmasi pembayaran                 |
+| status       | String       | Status pesanan (pending, selesai)        |
+| notif        | String       | Pesan notifikasi                             |
 ### 4. Relasi
 ![APBO UTS-Entitiy Diagram drawio](https://github.com/user-attachments/assets/8ac50d36-6de0-4144-8bbc-602955429b13)
 
 
 ### 5. Class Diagram
 ![APBO UTS-Class Diagram (8)](https://github.com/user-attachments/assets/4c0eb1db-3ca8-47d5-8064-c778efc079d0)
-
