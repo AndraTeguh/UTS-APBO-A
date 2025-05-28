@@ -62,4 +62,5 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 
 ### 5. Class Diagram
-=======
+![APBO UTS-Class Diagram (8)](https://github.com/user-attachments/assets/4c0eb1db-3ca8-47d5-8064-c778efc079d0)
+
