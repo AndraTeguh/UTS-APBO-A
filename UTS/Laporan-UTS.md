@@ -121,30 +121,78 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 ![APBO UTS-Class Diagram (8)](https://github.com/user-attachments/assets/4c0eb1db-3ca8-47d5-8064-c778efc079d0)
 
 
-### 7. Wireframe/Mockup
-#### A. Mengelola Data Makanan - Penjual
-![APBO UTS-Wireframe Tambah Menu drawio (1)](https://github.com/user-attachments/assets/c2ea3716-c0fe-482d-bd2d-ecdac530608b)
+### 7. Wireframe/Mock UP
+#### A. Penjual
+- Halaman Daftar Menu
+
+![Screenshot 2025-07-06 220846](https://github.com/user-attachments/assets/36104cbb-4cdc-4421-be12-106e1438050e) 
+![Screenshot 2025-07-06 221053](https://github.com/user-attachments/assets/ee001b55-f7c6-4d25-8fc3-cc57ee344525)
+  
+- Halaman Mengelola Data Menu
+
+![Screenshot 2025-07-06 220957](https://github.com/user-attachments/assets/56c74e0a-eb88-4666-849a-ed0a7c84caa8)
+![Screenshot 2025-07-06 221115](https://github.com/user-attachments/assets/93bf60bc-e295-4620-a53d-54180f30d9ab)
+
+- Halaman Konfirmasi Pesanan
+
+![Screenshot 2025-07-06 222013](https://github.com/user-attachments/assets/f9dc8451-e538-4e91-8482-5b006e0658fb)
+![Screenshot 2025-07-06 222029](https://github.com/user-attachments/assets/47580f7f-7da3-4018-977b-86ddb2228c75)
+![Screenshot 2025-07-06 222050](https://github.com/user-attachments/assets/c5848804-de97-451a-a696-722816b21584)
+![Screenshot 2025-07-06 221410](https://github.com/user-attachments/assets/3caa6ecb-055b-4112-8eba-dd8a547d8c92)
+![Screenshot 2025-07-06 221427](https://github.com/user-attachments/assets/e017b428-023c-4a22-a031-26c2432034a4)
+![Screenshot 2025-07-06 221456](https://github.com/user-attachments/assets/4fcb4177-fe1a-4ee4-acaa-cc3208513468)
 
 
-#### B. Daftar Makanan  - Penjual, Pembeli
-![APBO UTS-Wireframe Makanan drawio](https://github.com/user-attachments/assets/99ec88a5-37a6-44f5-8a30-bc61822b92db)
+- Halaman Riwayat Transaksi
 
+![Screenshot 2025-07-06 222934](https://github.com/user-attachments/assets/6df4f530-b13e-41a8-a39b-8ece399076c7)
+  ![Screenshot 20![Uploading Screenshot 2025-07-06 222934.png…]()
+25-07-06 221523](https://github.com/user-attachments/assets/de88d197-2301-4e4a-b0fe-26fb0c1e341f)
 
-#### C. Pesan Makanan - Pembeli
-![APBO UTS-Wireframe Pesan drawio](https://github.com/user-attachments/assets/1bbb4a5b-a9b9-4773-b102-b5b68ee19447)
+- Halaman Profil
 
+![Screenshot 2025-07-06 224709](https://github.com/user-attachments/assets/bc2ecebe-089e-4d8b-9ce1-eda0c4b73627)
+![Screenshot 2025-07-06 221543](https://github.com/user-attachments/assets/5a1946ab-6ba8-4609-b6a2-8805fd020a72)
 
-#### D. Data Diri - Pembeli
-![APBO UTS-Wireframe Data Diri drawio (1)](https://github.com/user-attachments/assets/5a00ee35-adc8-48a7-8390-88cc4527d070)
+#### B. Pembeli
+- Halaman Main Menu
 
- 
-#### E. Pembayaran - Pembeli
-![APBO UTS-Wireframe Pembayaran](https://github.com/user-attachments/assets/47355e7c-b9a7-4ac4-89c6-7d314bd14ac9)
+  ![Screenshot 2025-07-06 224113](https://github.com/user-attachments/assets/0fe0dafb-c76e-4377-92e6-6dfb82277503)
+![Screenshot 2025-07-06 224217](https://github.com/user-attachments/assets/885be72a-099c-467f-9731-5962b795acd2)
 
+- Halaman Daftar Menu
 
-#### F. Konfirmasi, Melihat Daftar Pesanan - Penjual
-![APBO UTS-Wireframe Konfirmasi drawio](https://github.com/user-attachments/assets/1348a782-d779-4f2d-a571-09f05d32ad7b)
+![Screenshot 2025-07-06 223258](https://github.com/user-attachments/assets/69f6350c-3d55-45ad-8138-541b5a9ed86e)
+  ![Screenshot 2025-07-06 222257](https://github.com/user-attachments/assets/ed3639ef-deb2-4e06-a8c3-e7ff07313e7c)
 
+- Halaman Pemesanan
 
-#### G. Notifikasi - Pembeli
-![APBO UTS-Wireframe Notifikasi](https://github.com/user-attachments/assets/da87a565-13a5-44ab-9338-ecab14dec2fc)
+![Screenshot 2025-07-06 223319](https://github.com/user-attachments/assets/91603687-2a4b-447c-a230-a3a2606264ad)
+  ![Screenshot 2025-07-06 222315](https://github.com/user-attachments/assets/6d61d79e-9d35-4e4a-8e74-088480ef83df)
+
+- Halaman Isi Data Diri dan Metode Pembayaran
+
+![Screenshot 2025-07-06 223333](https://github.com/user-attachments/assets/1a743416-191d-4df1-a5ec-ef13e6142bb2)
+  ![Screenshot 2025-07-06 222331](https://github.com/user-attachments/assets/040c1852-50b7-4525-aa9b-615dc7802387)
+
+- Halaman Notifikasi dan Detail Pemesanan
+
+![Screenshot 2025-07-06 225202](https://github.com/user-attachments/assets/afb0d6ea-88bf-4a4e-a00c-fe5b6a74ce92)
+![Screenshot 2025-07-06 225659](https://github.com/user-attachments/assets/a41742e3-614c-4a7f-b8be-0eeff89a96d4)
+
+- Halaman Riwayat Transaksi
+
+![Screenshot 2025-07-06 231049](https://github.com/user-attachments/assets/3ef94b07-59b0-458a-9a30-485233e1f937)
+![Screenshot 2025-07-06 231114](https://github.com/user-attachments/assets/aea83a45-4e5b-4352-9c11-8e100e79e16c)
+   ![Screenshot 2025-07-06 222411](https://github.com/user-attachments/assets/380b976a-333b-4e5d-bc87-ec4aa9c06c49)
+![Screenshot 2025-07-06 222424](https://github.com/user-attachments/assets/5f779f1c-410a-4417-ba9a-94471a14a6a7)
+
+- Halaman Profil
+
+![Screenshot 2025-07-06 223235](https://github.com/user-attachments/assets/7b2646f3-b8c5-4464-87ac-882368526eed)
+  ![Screenshot 2025-07-06 222436](https://github.com/user-attachments/assets/30467788-64a5-48dd-9046-3c3562df8c02)
+
+- Halaman Ulasan
+
+![Screenshot 2025-07-06 223143](https://github.com/user-attachments/assets/6a297dc8-8b6c-4f9a-9fc7-3cc1e08fd480)
+  ![Screenshot 2025-07-06 222449](https://github.com/user-attachments/assets/ecb07ebe-0342-405a-ac88-673dd66b7df7)
