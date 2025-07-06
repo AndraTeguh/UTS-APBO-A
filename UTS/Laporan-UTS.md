@@ -17,7 +17,31 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 ## Ketering Mama Iin
 
-### 1. Aktor/Role
+### 1. Functional Requirements
+1. Login dan Akses Pengguna
+   - Sistem harus menyediakan fitur login menggunakan akun pengguna.
+   - Sistem harus memungkinkan pengguna masuk sebagai tamu menggunakan QR scan.
+2. Pengelolaan Data
+   - Sistem harus memungkinkan admin untuk mengelola profil dan status katering.
+   - Sistem harus memungkinkan admin untuk mengelola data makanan (tambah, ubah, hapus menu makanan).
+3. Menu Makanan
+   - Sistem harus menampilkan daftar menu makanan yang tersedia kepada semua pengguna (akun dan tamu).
+   - Sistem harus memungkinkan pengguna untuk memberikan penilaian terhadap menu makanan.
+4. Proses Pemesanan
+   - Sistem harus memungkinkan pengguna memilih makanan dan membuat pesanan.
+   - Sistem harus meminta pengguna untuk mengisi data diri sebelum menyelesaikan pemesanan.
+   - Sistem harus menyediakan pilihan metode pembayaran.
+   - Sistem harus menampilkan daftar pesanan yang telah dibuat oleh pengguna.
+5. Pembayaran
+   - Sistem harus memungkinkan pengguna mengkonfirmasi pembayaran setelah memilih metode pembayaran.
+   - Sistem harus menampilkan daftar transaksi yang telah dilakukan pengguna.
+6. Notifikasi
+   - Sistem harus mengirim notifikasi kepada pengguna ketika pesanan berhasil dibuat atau status pesanan berubah.
+7. Konfirmasi
+   - Sistem harus memungkinkan pengguna melakukan konfirmasi terhadap pesanan yang dibuat.
+
+  
+### 2. Aktor/Role
 
 A. Penjual
 Berperan sebagai pengelola sistem yang bertanggung jawab dalam pengelolaan menu, memproses pesanan yang masuk, mengelola data pesanan, dan menerima pembayaran.
@@ -26,10 +50,11 @@ B. Pembeli
 Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data pribadi, memilih metode pembayaran, dan menerima notifikasi pesanan.
 
 
-### 2. Use Case Diagram
-![APBO UTS-Use Case drawio (1)](https://github.com/user-attachments/assets/9a031879-f424-40c3-876b-6c12cb09171d)
+### 3. Use Case Diagram
+![APBO UTS-Use Case drawio (2)](https://github.com/user-attachments/assets/0cc1e423-3eb9-48c0-8da9-d4dec2e78e28)
 
-### 3. Entitas Utama
+
+### 4. Entitas Utama
 
 #### A. Pembeli
 
@@ -82,15 +107,15 @@ Berperan sebagai pengguna sistem yang melakukan pemesanan makanan, mengisi data 
 | status       | String       | Status pesanan (pending, selesai)        |
 | notif        | String       | Pesan notifikasi                             |
 
-### 4. Relasi
+### 5. Relasi
 ![APBO UTS-Entitiy Diagram drawio](https://github.com/user-attachments/assets/8ac50d36-6de0-4144-8bbc-602955429b13)
 
 
-### 5. Class Diagram
+### 6. Class Diagram
 ![APBO UTS-Class Diagram (8)](https://github.com/user-attachments/assets/4c0eb1db-3ca8-47d5-8064-c778efc079d0)
 
 
-### 6. Wireframe/Mockup
+### 7. Wireframe/Mockup
 #### A. Mengelola Data Makanan - Penjual
 ![APBO UTS-Wireframe Tambah Menu drawio (1)](https://github.com/user-attachments/assets/c2ea3716-c0fe-482d-bd2d-ecdac530608b)
 
